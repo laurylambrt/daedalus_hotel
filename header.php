@@ -27,10 +27,10 @@
 				<nav>
 					<ul>
 						<li><a href="http://localhost/deadalus_hotel/index.php">Accueil</a></li>
-						<li><a href="http://localhost/deadalus_hotel/chambres.php">Chambres & Services</a></li>
-						<li><a href="http://localhost/deadalus_hotel/situer.php">Nous situer</a></li>
-						<li><a href="http://localhost/deadalus_hotel/decouvrir.php">Découvrir Lyon</a></li>
-						<li><a href="http://localhost/deadalus_hotel/contact.php">Nous contacter</a></li>
+						<li><a href="http://localhost/deadalus_hotel/chambres.php">ça</a></li>
+						<li><a href="http://localhost/deadalus_hotel/situer.php">ne</a></li>
+						<li><a href="http://localhost/deadalus_hotel/decouvrir.php">marche</a></li>
+						<li><a href="http://localhost/deadalus_hotel/contact.php">pas</a></li>
 					</ul>
 					</nav>
 			</header>
